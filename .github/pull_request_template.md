@@ -1,4 +1,21 @@
-Please go the the `Preview` tab and select the appropriate sub-template:
+## PR Type
+- [ ] Feature
+- [ ] Bug
 
-* [New Feature Template](?expand=1&template=pull_request_template.md)
-* [Bug Template](?expand=1&template=pull_request_template_2.md)
+## Description
+[Describe the bug you're fixing]
+
+## Cause
+[Describe the cause of the Issue that you have found]
+
+## Solution
+[Describe the changes you made to which file to fix this bug]
+
+## Impact
+
+## Checklist
+- [ ] This is important to show the ticket progress
+- [ ] Add as many as you want
+
+## Evidence 
+[Required]
